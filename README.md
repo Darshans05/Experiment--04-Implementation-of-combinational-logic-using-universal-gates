@@ -74,7 +74,7 @@ USING NAND GATE
 ![image](https://user-images.githubusercontent.com/115534676/211152926-56920e7e-09a6-4807-b94f-d9413aa91b17.png)
 Timing Diagram
 ![image](https://user-images.githubusercontent.com/115534676/211152950-f97dca77-ec52-478d-833d-f8457728a757.png)
-TRUTH TABLE
+TRUTH TABLE:
 ![image](https://user-images.githubusercontent.com/115534676/211152994-b8cd34b2-c57e-41ea-9d22-892d2a057222.png)
 ## Output:
 ## RTL
